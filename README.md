@@ -38,7 +38,7 @@ I am a student and a programmer at the moment. As a side gig, I'm a full-stack d
 
 ### 📊 Stats
 
-![Codewithjom GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithjom&show_icons=true&theme=gruvbox)
+![Codewithjom GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithjom&show_icons=true&theme=catppuccin)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=codewithjom&theme=gruvbox&border_radius=4.5) -->
 

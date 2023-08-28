@@ -13,6 +13,8 @@ I am a student and a programmer at the moment. As a side gig, I'm a full-stack d
 
 ---
 
+#
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
@@ -31,6 +33,8 @@ I am a student and a programmer at the moment. As a side gig, I'm a full-stack d
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
+#
 
 ### 📊 Stats
 

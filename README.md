@@ -1,8 +1,6 @@
-# Codewithjom
-
 **`Developer/Student`**
 
-I am a student and a programmer at the moment. As a side gig, I'm a full-stack developer. Every coding endeavor starts with brainstorming and ends with solving real-world issues.
+Unlocking the boundless possibilities of code, I embrace the art of programming with a passion that drives me forward. Whether crafting elegant algorithms or solving complex puzzles, I find joy in every line I write. As a programmer, I am a creator, a problem-solver, and a visionary. Let's collaborate and turn ideas into reality, one line at a time.
 
    <p align="left">
       <a href="https://github.com/codewithjom?tab=followers">
@@ -34,14 +32,14 @@ I am a student and a programmer at the moment. As a side gig, I'm a full-stack d
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+<!--
+
 #
 
 ### 📊 Stats
 
-![Codewithjom GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithjom&show_icons=true&theme=catppuccin)
+ ![Codewithjom GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithjom&show_icons=true&theme=catppuccin)
+
+-->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=codewithjom&theme=gruvbox&border_radius=4.5) -->
-
-<details>
- <summary><h3>👨‍💻 Jom's Coding Journey</h3></summary>
-   I'm a solo indie developer building web and mobile apps for personal use. All coding projects start with an idea and end with a solution to a real-world problem using code. Independent study has always been one of my favorite ways to expand my knowledge, especially in the technical fields. In my opinion, knowing and accepting yourself is the first and most important step in achieving your goals.

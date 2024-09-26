@@ -1,4 +1,4 @@
-**`Developer/Student`**
+**`Developer`**
 
 Unlocking the boundless possibilities of code, I embrace the art of programming with a passion that drives me forward. Whether crafting elegant algorithms or solving complex puzzles, I find joy in every line I write. As a programmer, I am a creator, a problem-solver, and a visionary. Let's collaborate and turn ideas into reality, one line at a time.
 

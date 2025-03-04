@@ -19,4 +19,4 @@ Unlocking the boundless possibilities of code, I embrace the art of programming 
 
 -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=codewithjom&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=jajproduction&theme=gruvbox&border_radius=4.5)

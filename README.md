@@ -13,4 +13,4 @@ I work as a developer, community builder, and optimist. Developing applications 
 
 ### 📊 Stats
 
-![jajproduction GitHub stats](https://github-readme-stats.vercel.app/api?username=jajproduction&show_icons=true&theme=catppuccin) ![GitHub Streak](https://streak-stats.demolab.com?user=jajproduction&theme=gruvbox&border_radius=4.5)
+![jajproduction GitHub stats](https://github-readme-stats.vercel.app/api?username=jajproduction&show_icons=true&theme=catppuccin) ![GitHub Streak](https://streak-stats.demolab.com?user=jajproduction&theme=catppuccin&border_radius=4.5)
